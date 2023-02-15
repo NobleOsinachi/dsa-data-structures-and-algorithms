@@ -1,0 +1,38 @@
+{
+    "name": "main-website",
+    "dockerComposeFile": [
+        "../../../services/docker-compose.yml"
+    ],
+    "service": "main-website",
+    "workspaceFolder": "/var/www/html",
+    "shutdownAction":"none",
+
+    // Set *default* container specific settings.json values on container create.
+    "settings": {},
+    
+    // Add the IDs of extensions you want installed when the container is created.
+    "extensions": [
+		"aaron-bond.better-comments",
+		"donjayamanne.githistory",
+		"herrmannplatz.npm-dependency-links",
+		"lukaserat.npm-scripts",
+		"esbenp.prettier-vscode",
+		"formulahendry.terminal",
+		"christian-kohler.npm-intellisense",
+		"github.vscode-pull-request-github",
+		"IronGeek.vscode-env",
+		"eamodio.gitlens",
+		"HookyQR.beautify",
+		"kokororin.vscode-phpfmt"
+	],
+
+    // Use 'forwardPorts' to make a list of ports inside the container available locally.
+    "forwardPorts": [80],
+    // "forwardPorts": [5000, 27017, 5672, 15672],
+
+    // Use 'postCreateCommand' to run commands after the container is created.
+    // "postCreateCommand": "ENV SHELL /bin/bash",
+
+    // Comment out connect as root instead. More info: https://aka.ms/vscode-remote/containers/non-root.
+    // "remoteUser": "www-data"
+}

@@ -1,0 +1,7 @@
+C:\Users\Noble\source\repos\DSA\DSA\bin\Debug\DSA.exe.config
+C:\Users\Noble\source\repos\DSA\DSA\bin\Debug\DSA.exe
+C:\Users\Noble\source\repos\DSA\DSA\bin\Debug\DSA.pdb
+C:\Users\Noble\source\repos\DSA\DSA\obj\Debug\DSA.csprojAssemblyReference.cache
+C:\Users\Noble\source\repos\DSA\DSA\obj\Debug\DSA.csproj.CoreCompileInputs.cache
+C:\Users\Noble\source\repos\DSA\DSA\obj\Debug\DSA.exe
+C:\Users\Noble\source\repos\DSA\DSA\obj\Debug\DSA.pdb
