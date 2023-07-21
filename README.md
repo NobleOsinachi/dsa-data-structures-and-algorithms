@@ -44,6 +44,6 @@ Let's learn and grow together in the world of data structures and algorithms! ðŸ
 
 ## Contact
 
-You can reach me through my website [www.nobleosinachi.com](https://www.nobleosinachi.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/nobleosinachi).
+You can reach me through my website [www.nobleosinachi.com](https://nobleosinachi.github.io) or connect with me on [LinkedIn](https://www.linkedin.com/in/nobleosinachi).
 
 Happy coding! ðŸ˜„
